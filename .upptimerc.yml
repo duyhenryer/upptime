@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Duyne
-    url: https://duyne.me
+    url: https://www.duyne.me
+  - name: Google
+    url: https://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
